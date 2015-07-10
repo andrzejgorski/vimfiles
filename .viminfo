@@ -1,0 +1,1945 @@
+# Ten plik viminfo został wygenerowany przez Vima 7.4.
+# Możesz go ostrożnie edytować!
+
+# Wartość 'encoding' w czasie zapisu tego pliku
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Ostatni Wyszukiwany wzorzec:
+~MSle0~/capture
+
+# Ostatni Podstawienie Wyszukiwany wzorzec:
+~MSle0&CardLock).all())
+
+# Ostatni podstawiany ciąg:
+$
+
+# Wiersz poleceń Historia (od najnowszych po najstarsze):
+:q
+:q!
+:250
+:w
+:vsplit dms_worldline/const.py
+:254
+:255
+:W
+:vsplit dms_worldline/client.py
+:x
+:353
+:vsplit dms_worldline/models.py
+:446
+:299
+:101
+:156
+:55
+:93
+:48
+:155
+:vsplit client.py
+:Q
+:212
+:vsplit models.py
+:vsplit 
+:27
+:vsplit testing.yaml
+:vsplit config.ini
+:70
+:316
+:256
+:243
+:234
+:178
+:142
+:137
+:86
+:83
+:302
+:81
+:71
+:62
+:14
+:8
+:vsplit
+:126
+:91
+:35
+:59
+:74
+:75
+:33
+:28
+:16
+:X
+:72
+:78
+:29
+:60
+:23
+:s/\\n/ 
+:%s/\\n/ 
+:g/\\n/ 
+:%s/\\n/\n
+:%s/\n/newline
+:%s/\n /newline
+:%s/\n/
+:%s/\n/\\n
+:%s/\n//n
+:24
+:split config.ini
+:scriptnames
+:scriptinstall
+:PluginInstall!
+:PluginInstall
+:PluginUpdate
+:PluginINstall
+:100
+:45
+:vsplit tmp.py
+:vsplit tmp
+:vspilt
+:tags 12
+:tags
+:423
+:422
+:ew
+:96
+:vsplit dupa
+:106
+:match ErrorMsg '\
+:%s/CardLock).all())/CardLock).count()
+:%s/len(MDBSession/MDBSession
+:s%/len(MDBSession/MDBSession
+:s%/len(MDBSession.query(models.CardLock).all()/MDBSession.query(models.CardLock).count()
+:113
+:13
+:109
+:689
+:131
+:128
+:122
+:121
+:110
+:120
+:111
+:690
+:123
+:61
+:64
+:4
+:36
+:583
+:168
+:e
+:161
+:401
+:vsplit tmptest.py
+:split tmptest.py
+:split
+:%s/daftpay.common.geoip/daftpay.core.geoip
+:404
+:w!
+:157
+:vsplit service_mappings.py
+:54
+:17
+:vsplit master_mappings.py
+:107
+:tabn
+:tabnew dupa
+:vsplit captures.py
+:30
+:vsplit test_get_capture.py
+:vsplit test_refund.py
+:s
+:vsplit src/daftpay/tests/api/test_get_subscription.py
+:210
+:437
+:1
+:func SearchCompl
+:function
+:functions
+:scriptsnames
+:listchars
+:set list
+:help
+:vsplit geoip.py
+:c
+:165
+:15
+:vsplit setup.cfg
+:wqa
+:85
+:x!
+:split install_requirements.sh
+:split addenv.sh
+:split build.sh
+:split develop.sh
+:vsplit clone.sh
+:wq!
+:%s/ciekawostka/beka
+:%s/zmienna/ciekawostka
+:split tests.py
+:split WeatherForecastService.py
+:split SnowplowMalfunctioningException.py
+:tabnew ../../../../README.MD
+:vsplit PressService.py
+
+# Szukany ciąg Historia (od najnowszych po najstarsze):
+?/capture
+?/TRANSACTION
+?/CAPTURE_SUCCEEDED
+?/TRANSA
+?/CAPTURE
+?/200
+?/topera
+?/toperation_results
+?/34
+?/"34"
+?/failed
+?/"00"
+?/refund
+?/response_code
+?/refund.response_code
+?/capture.response_code
+?/authorization.response_code
+?/_send_request
+?/RequestException
+??toper_result
+? \<patch_fn\>
+?/ipdb
+?/authorization_id
+?/test_success_online
+?/transaction.be
+?/d5752db56c2f43c19b80d1b2940f8b8d
+? \<responseCode\>
+? \<capture\>
+?/Capture
+?/declarative_base
+?/Base
+?/Ca
+? \<_log_request\>
+? \<ipdb\>
+?/log
+?/DBSession
+?/CardLock
+?/_create_ccn_hash
+? \<new_card_lock\>
+?/card_lock_result
+?/new_card_lock
+?/crea
+?/_cre
+?/mock
+?/test_success
+?/ExtraWhitespace
+? \\n
+? \n
+? \n 
+?/%s/\n///n
+??432
+?/vim
+?/CardL
+?/query
+?/Session
+?/models.Subs
+?/Subscription
+?/models
+?/Sub
+?/Subs
+?/bin_country_code
+?/409
+?/dms_auth_result
+?/dms_auth_id
+?/create_car
+? CardLock).all())
+? len(MDBSession
+? /len(MDBSession/MDBSession
+? /len(MDBSession.query(models.CardLock).all()/MDBSession.query(models.CardLock).count()
+?/patch
+?/common
+?/gen_id
+?/datetime
+?/card_lock
+?/app
+?/req_cardholder
+?/MDBSession
+? daftpay.common.geoip
+?/subscriptions
+?/expiry_date
+?/func
+?/subscriptions/
+?/request
+?/test_
+?/tests
+?/create_subscription
+?/create_subscrtion
+?/succe
+?/tservice.db.query
+?/app.
+?/app 
+?/resp 
+?/resp
+?/geoip_get_data_fn
+?/card 
+?/card
+?/geoip
+?/===
+?/txn
+?/create_card
+?/create_sub
+?/id_gen_column
+?/id_generator
+?/Column
+?/master
+?/authorizations
+?/cardLock
+?/mapper
+?/Table
+?/CardIssuer
+?/card_i
+?/card_
+?/cardissure
+?/card_issuer
+?/object_code
+?/Subsc
+?/get_capture
+?/testing
+?/<<<<
+?/>>>>
+?/====
+?/subscription
+?/sub
+?/TXN
+?/recre
+?/APIRe
+?/APIRE
+?/APIRes
+?/Su
+?/yaml
+?/logging
+?/asserts
+?/assserts
+? ciekawostka
+? zmienna
+
+# Wyrażenie Historia (od najnowszych po najstarsze):
+
+# Wiersz wprowadzeń Historia (od najnowszych po najstarsze):
+
+# Wiersz wprowadzeń Historia (od najnowszych po najstarsze):
+
+# Rejestry:
+"0	LINE	0
+	            if response['responseCode'] == const.response_code.SUCCESS:
+"1	LINE	0
+	            if response['responseCode'] == const.response_code.TRANSACTION_NOT_FOUND:
+"2	LINE	0
+	class http_response_status(object):
+	    OK = 200
+	
+	
+	
+"3	LINE	0
+	    assert refund.response_code == '00'
+"4	LINE	0
+	    import ipdb; ipdb.set_trace()
+"5	LINE	0
+	    assert refund.response_code == '00'
+"6	LINE	0
+	    import ipdb; ipdb.set_trace()
+"7	LINE	0
+	        assert capture.response_code 
+"8	LINE	0
+	        assert capture.response_code 
+"9	LINE	0
+	            import ipdb; ipdb.set_trace()
+""-	CHAR	0
+	O
+
+# zmienne globalne:
+
+# Zakładki w plikach:
+'0  1  0  ~/pgadmin.log
+'1  253  78  ~/worldline/worldline/dms_worldline/client.py
+'2  1  0  ~/worldline/worldline/dms_worldline/const
+'3  6  28  ~/worldline/worldline/dms_worldline/const.py
+'4  1  0  ~/worldline/worldline/dms_worldline/const.py
+'5  5  0  ~/worldline/worldline/dms_worldline/const.py
+'6  1  0  ~/worldline/worldline/dms_worldline/tests/test_refund.py
+'7  58  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+'8  196  8  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+'9  55  4  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+
+# Lista odniesień (począwszy od najnowszych):
+-'  1  0  ~/pgadmin.log
+-'  253  78  ~/worldline/worldline/dms_worldline/client.py
+-'  217  17  ~/worldline/worldline/dms_worldline/client.py
+-'  225  8  ~/worldline/worldline/dms_worldline/client.py
+-'  222  12  ~/worldline/worldline/dms_worldline/client.py
+-'  230  22  ~/worldline/worldline/dms_worldline/client.py
+-'  242  56  ~/worldline/worldline/dms_worldline/client.py
+-'  249  12  ~/worldline/worldline/dms_worldline/client.py
+-'  250  12  ~/worldline/worldline/dms_worldline/client.py
+-'  266  23  ~/worldline/worldline/dms_worldline/client.py
+-'  306  51  ~/worldline/worldline/dms_worldline/client.py
+-'  47  8  ~/worldline/worldline/dms_worldline/client.py
+-'  475  8  ~/worldline/worldline/dms_worldline/client.py
+-'  2  0  ~/worldline/worldline/dms_worldline/client.py
+-'  1  0  ~/worldline/worldline/dms_worldline/client.py
+-'  34  0  ~/worldline/worldline/dms_worldline/const.py
+-'  1  0  ~/worldline/worldline/dms_worldline/const.py
+-'  1  0  ~/worldline/worldline/dms_worldline/const
+-'  6  28  ~/worldline/worldline/dms_worldline/const.py
+-'  73  44  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  16  7  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  1  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  5  0  ~/worldline/worldline/dms_worldline/const.py
+-'  1  0  ~/worldline/worldline/dms_worldline/tests/test_refund.py
+-'  58  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  475  4  ~/worldline/worldline/dms_worldline/tests/test_refund.py
+-'  346  4  ~/worldline/worldline/dms_worldline/tests/test_refund.py
+-'  13  0  ~/worldline/worldline/dms_worldline/tests/test_refund.py
+-'  209  4  ~/worldline/worldline/dms_worldline/tests/test_refund.py
+-'  196  8  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  188  8  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  175  22  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  190  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  174  54  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  183  11  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  160  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  62  39  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  82  4  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  91  32  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  101  39  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  154  39  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  163  8  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  100  39  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  55  4  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  59  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  94  4  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  68  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  72  4  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  197  38  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  189  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  187  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  182  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  180  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  177  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  168  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  166  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  158  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  156  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  149  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  146  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  138  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  129  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  126  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  123  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  105  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  103  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  97  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  95  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  92  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  89  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  87  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  84  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  81  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  67  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  65  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  56  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  53  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  50  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  48  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  45  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  42  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  34  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  21  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  13  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  11  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  3  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  22  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  69  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  198  38  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  181  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  178  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  169  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  167  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  159  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  157  0  ~/worldline/worldline/dms_worldline/tests/test_capture.py
+-'  253  78  ~/worldline/worldline/dms_worldline/client.py
+-'  217  17  ~/worldline/worldline/dms_worldline/client.py
+-'  225  8  ~/worldline/worldline/dms_worldline/client.py
+
+# Historia zakładek w plikach (od najnowszych po najstarsze):
+
+> ~/pgadmin.log
+	"	1	0
+
+> ~/worldline/worldline/dms_worldline/const.py
+	"	7	5
+	^	7	6
+	.	7	5
+	+	5	18
+	+	6	28
+	+	7	24
+	+	7	31
+	+	10	0
+	+	10	3
+	+	10	10
+	+	10	11
+	+	10	0
+	+	7	5
+
+> ~/worldline/worldline/dms_worldline/client.py
+	"	253	78
+	^	253	79
+	.	253	17
+	+	462	36
+	+	462	0
+	+	414	0
+	+	459	0
+	+	436	0
+	+	460	8
+	+	460	45
+	+	461	24
+	+	253	202
+	+	244	59
+	+	230	0
+	+	253	182
+	+	253	232
+	+	270	0
+	+	243	57
+	+	222	0
+	+	243	59
+	+	446	0
+	+	360	0
+	+	241	0
+	+	241	0
+	+	243	0
+	+	241	0
+	+	241	0
+	+	419	0
+	+	242	0
+	+	241	0
+	+	242	0
+	+	339	58
+	+	194	0
+	+	243	0
+	+	338	0
+	+	339	0
+	+	358	70
+	+	360	0
+	+	358	35
+	+	243	0
+	+	249	0
+	+	339	0
+	+	345	0
+	+	253	169
+	+	253	189
+	+	253	245
+	+	255	11
+	+	253	210
+	+	253	170
+	+	253	189
+	+	253	244
+	+	253	230
+	+	253	126
+	+	253	230
+	+	253	126
+	+	253	126
+	+	253	138
+	+	253	0
+	+	253	126
+	+	253	71
+	+	253	189
+	+	253	45
+	+	253	80
+	+	253	45
+	+	253	84
+	+	254	16
+	+	253	126
+	+	253	126
+	+	253	46
+	+	254	32
+	+	254	123
+	+	254	52
+	+	255	0
+	+	254	32
+	+	254	52
+	+	254	115
+	+	253	126
+	+	254	0
+	+	253	18
+	+	253	18
+	+	253	126
+	+	253	130
+	+	253	65
+	+	254	88
+	+	255	0
+	+	254	31
+	+	253	107
+	+	254	0
+	+	253	18
+	+	253	17
+
+> ~/worldline/common/src/daftpay/common/const/__init__.py
+	"	297	20
+	^	297	21
+	.	297	20
+	+	297	20
+
+> ~/worldline/common/src/daftpay/common/const/country_codes.py
+	"	253	0
+
+> ~/worldline/dms/dms/const.py
+	"	1	0
+
+> ~/worldline/worldline/dms_worldline/const
+	"	1	0
+
+> ~/worldline/worldline/dms_worldline/tests/test_capture.py
+	"	101	67
+	^	101	68
+	.	101	67
+	+	98	0
+	+	73	0
+	+	27	0
+	+	48	45
+	+	48	4
+	+	49	0
+	+	48	32
+	+	49	3
+	+	49	33
+	+	48	0
+	+	49	0
+	+	87	0
+	+	88	0
+	+	87	0
+	+	88	0
+	+	91	0
+	+	93	0
+	+	91	0
+	+	61	34
+	+	49	0
+	+	159	0
+	+	49	0
+	+	27	0
+	+	61	0
+	+	95	0
+	+	60	0
+	+	59	0
+	+	62	39
+	+	160	0
+	+	95	0
+	+	101	39
+	+	151	0
+	+	155	18
+	+	149	0
+	+	99	0
+	+	152	0
+	+	155	0
+	+	155	0
+	+	187	0
+	+	188	37
+	+	188	0
+	+	188	0
+	+	179	0
+	+	191	0
+	+	188	0
+	+	31	44
+	+	62	56
+	+	154	56
+	+	15	0
+	+	16	7
+	+	73	71
+	+	101	67
+
+> ~/worldline/worldline/dms_worldline/models.py
+	"	1	0
+	^	80	42
+	.	81	0
+	+	80	42
+	+	81	0
+
+> ~/worldline/worldline/dms_worldline/tests/test_refund.py
+	"	105	4
+	.	105	0
+	+	104	35
+	+	104	0
+	+	104	0
+	+	105	0
+
+> ~/worldline/worldline/requiremets-tests.txt
+	"	4	0
+	^	4	6
+	.	4	5
+	+	4	5
+
+> ~/.virtualenvs/worldlineenv/lib/python2.7/site-packages/testconfig.py
+	"	27	8
+
+> ~/worldline/worldline/testing.yaml
+	"	30	4
+	.	2	0
+	+	31	0
+	+	2	0
+
+> ~/worldline/worldline/testing.sample.yaml
+	"	1	0
+
+> ~/worldline/worldline/config.sample.ini
+	"	1	0
+
+> ~/worldline/worldline/config.ini
+	"	2	0
+	.	2	0
+	+	2	0
+
+> ~/worldline/cielo/config.ini
+	"	1	0
+
+> ~/worldline/cielo/testing.yaml
+	"	20	0
+
+> ~/daftpay/common/src/daftpay/common/models.py
+	"	539	4
+	^	538	0
+	.	538	0
+	+	210	7
+	+	210	20
+	+	210	0
+	+	5	0
+	+	4	10
+	+	210	11
+	+	210	18
+	+	210	27
+	+	210	0
+	+	210	23
+	+	210	26
+	+	210	17
+	+	210	34
+	+	210	16
+	+	210	55
+	+	210	47
+	+	210	54
+	+	210	56
+	+	210	0
+	+	210	0
+	+	537	0
+	+	536	0
+	+	537	0
+	+	537	13
+	+	537	33
+	+	537	52
+	+	28	23
+	+	537	30
+	+	537	31
+	+	28	0
+	+	537	0
+	+	537	22
+	+	537	22
+	+	539	0
+	+	544	61
+	+	546	0
+	+	545	0
+	+	545	0
+	+	539	26
+	+	540	28
+	+	537	22
+	+	542	16
+	+	540	31
+	+	539	0
+	+	539	0
+	+	538	0
+
+> ~/daftpay/api/src/daftpay/api/subscriptions.py
+	"	67	35
+	^	70	36
+	.	70	36
+	+	29	0
+	+	28	43
+	+	28	13
+	+	28	0
+	+	28	60
+	+	28	24
+	+	28	0
+	+	29	20
+	+	28	12
+	+	27	14
+	+	28	68
+	+	29	24
+	+	29	33
+	+	29	36
+	+	29	29
+	+	28	14
+	+	29	46
+	+	31	51
+	+	29	0
+	+	31	13
+	+	29	0
+	+	31	51
+	+	29	0
+	+	29	46
+	+	29	40
+	+	29	54
+	+	29	58
+	+	31	0
+	+	29	0
+	+	29	0
+	+	29	0
+	+	29	22
+	+	29	22
+	+	29	49
+	+	29	51
+	+	79	0
+	+	29	0
+	+	4	0
+	+	3	0
+	+	2	0
+	+	73	4
+	+	73	27
+	+	27	11
+	+	27	19
+	+	27	14
+	+	73	0
+	+	27	11
+	+	27	7
+	+	27	0
+	+	73	66
+	+	73	7
+	+	73	9
+	+	73	27
+	+	73	30
+	+	73	30
+	+	73	29
+	+	73	0
+	+	73	40
+	+	73	0
+	+	73	32
+	+	73	8
+	+	73	0
+	+	46	0
+	+	73	0
+	+	73	0
+	+	27	0
+	+	73	0
+	+	49	28
+	+	50	31
+	+	50	0
+	+	73	0
+	+	52	0
+	+	73	0
+	+	65	0
+	+	65	0
+	+	65	0
+	+	50	0
+	+	73	4
+	+	70	0
+	+	73	0
+	+	52	0
+	+	50	8
+	+	51	0
+	+	43	0
+	+	35	30
+	+	65	0
+	+	36	0
+	+	36	0
+	+	64	47
+	+	49	0
+	+	49	0
+	+	46	29
+	+	46	7
+	+	46	7
+	+	46	4
+	+	46	0
+	+	27	0
+	+	1	0
+	+	51	27
+	+	70	36
+
+> ~/daftpay/tests/src/daftpay/tests/api/subscribe/test_create_subscription.py
+	"	1	0
+	^	106	44
+	.	106	44
+	+	100	4
+	+	680	6
+	+	100	0
+	+	107	5
+	+	108	0
+	+	100	55
+	+	109	55
+	+	110	0
+	+	122	0
+	+	122	4
+	+	680	5
+	+	100	33
+	+	100	0
+	+	100	0
+	+	1013	0
+	+	100	33
+	+	100	34
+	+	100	0
+	+	100	33
+	+	100	66
+	+	100	4
+	+	100	8
+	+	100	0
+	+	100	8
+	+	100	26
+	+	100	0
+	+	122	0
+	+	100	25
+	+	100	17
+	+	100	18
+	+	100	11
+	+	100	26
+	+	100	11
+	+	100	29
+	+	100	59
+	+	115	0
+	+	122	0
+	+	115	72
+	+	122	0
+	+	115	72
+	+	115	52
+	+	115	0
+	+	100	0
+	+	121	0
+	+	115	0
+	+	115	0
+	+	115	0
+	+	100	0
+	+	100	0
+	+	100	0
+	+	100	0
+	+	100	0
+	+	100	0
+	+	100	8
+	+	100	24
+	+	100	17
+	+	100	0
+	+	100	0
+	+	100	24
+	+	100	32
+	+	100	0
+	+	100	23
+	+	100	22
+	+	100	0
+	+	100	0
+	+	100	22
+	+	100	23
+	+	100	0
+	+	100	8
+	+	38	0
+	+	100	0
+	+	102	0
+	+	70	0
+	+	117	0
+	+	109	10
+	+	117	14
+	+	121	0
+	+	117	10
+	+	121	17
+	+	117	30
+	+	117	27
+	+	117	17
+	+	118	44
+	+	117	0
+	+	118	32
+	+	120	10
+	+	121	0
+	+	120	11
+	+	119	17
+	+	120	29
+	+	24	16
+	+	119	38
+	+	117	0
+	+	24	0
+	+	119	33
+	+	41	29
+	+	104	28
+	+	35	0
+	+	86	44
+	+	106	44
+
+> ~/daftpay/tests/99
+	"	1	0
+
+> ~/cielo/cielo/dms_cielo/tests/test_authorize_recurring.py
+	"	110	37
+	^	79	46
+	.	79	45
+	+	79	45
+
+> ~/cielo/cielo/dms_cielo/tests/__init__.py
+	"	113	46
+	^	114	61
+	.	114	60
+	+	75	0
+	+	76	0
+	+	77	24
+	+	78	53
+	+	87	0
+	+	89	33
+	+	90	62
+	+	89	18
+	+	123	0
+	+	99	0
+	+	101	34
+	+	102	63
+	+	111	0
+	+	113	31
+	+	114	60
+
+> ~/cielo/cielo/dms_cielo/tests/test_status_query.py
+	"	359	54
+	^	359	55
+	.	359	54
+	+	256	0
+	+	257	0
+	+	257	12
+	+	256	0
+	+	257	0
+	+	257	18
+	+	257	17
+	+	257	45
+	+	257	0
+	+	257	28
+	+	257	28
+	+	257	0
+	+	257	20
+	+	2	15
+	+	257	30
+	+	257	0
+	+	257	21
+	+	257	40
+	+	257	0
+	+	257	0
+	+	360	0
+	+	360	0
+	+	360	0
+	+	320	0
+	+	360	0
+	+	181	0
+	+	180	0
+	+	259	0
+	+	74	32
+	+	243	33
+	+	8	21
+	+	16	8
+	+	8	0
+	+	12	0
+	+	12	0
+	+	12	26
+	+	13	35
+	+	16	0
+	+	17	0
+	+	8	16
+	+	16	1
+	+	64	8
+	+	71	0
+	+	74	0
+	+	259	0
+	+	258	0
+	+	259	0
+	+	269	0
+	+	260	17
+	+	272	27
+	+	289	30
+	+	303	48
+	+	128	0
+	+	316	0
+	+	318	0
+	+	320	0
+	+	329	0
+	+	332	0
+	+	333	0
+	+	320	16
+	+	347	46
+	+	168	0
+	+	14	0
+	+	15	0
+	+	13	31
+	+	15	34
+	+	83	43
+	+	84	52
+	+	83	45
+	+	84	54
+	+	85	0
+	+	137	45
+	+	138	54
+	+	140	0
+	+	177	45
+	+	178	54
+	+	233	8
+	+	241	0
+	+	254	45
+	+	255	54
+	+	314	45
+	+	315	54
+	+	360	0
+	+	358	45
+	+	359	54
+
+> ~/cielo/cielo/dms_cielo/tests/test_cancel_or_refund.py
+	"	129	28
+	^	128	39
+	.	128	38
+	+	77	0
+	+	80	0
+	+	78	0
+	+	80	0
+	+	79	0
+	+	80	0
+	+	79	0
+	+	8	21
+	+	14	0
+	+	10	3
+	+	9	4
+	+	8	4
+	+	13	0
+	+	91	0
+	+	92	28
+	+	2	15
+	+	110	20
+	+	11	16
+	+	112	0
+	+	93	4
+	+	128	4
+	+	127	20
+	+	128	30
+	+	92	19
+	+	111	22
+	+	128	22
+	+	60	32
+	+	81	15
+	+	128	24
+	+	8	16
+	+	60	0
+	+	93	0
+	+	12	25
+	+	86	0
+	+	85	4
+	+	92	26
+	+	111	29
+	+	128	38
+	o	10	0
+
+> ~/cielo/cielo/dms_cielo/tests/test_authorize.py
+	"	63	4
+	^	74	28
+	.	74	27
+	+	17	0
+	+	62	0
+	+	64	0
+	+	63	35
+	+	65	16
+	+	60	16
+	+	61	0
+	+	14	0
+	+	14	1392
+	+	14	0
+	+	15	0
+	+	64	0
+	+	63	19
+	+	15	15
+	+	2	15
+	+	77	0
+	+	77	0
+	+	76	0
+	+	76	0
+	+	73	45
+	+	74	32
+	+	8	21
+	+	11	0
+	+	8	0
+	+	73	41
+	+	8	16
+	+	15	0
+	+	28	0
+	+	74	0
+	+	75	0
+	+	73	41
+	+	63	0
+	+	74	27
+
+> ~/.vimrc
+	"	16	27
+	^	1	185
+	.	1	0
+	+	4	16
+	+	3	12
+	+	5	13
+	+	81	0
+	+	6	9
+	+	81	0
+	+	8	0
+	+	9	36
+	+	10	24
+	+	8	0
+	+	12	0
+	+	81	21
+	+	81	41
+	+	81	0
+	+	8	0
+	+	7	21
+	+	11	0
+	+	1	27
+	+	2	0
+	+	2	25
+	+	8	0
+	+	2	0
+	+	16	61
+	+	14	22
+	+	16	0
+	+	14	22
+	+	3	16
+	+	4	16
+	+	1	28
+	+	2	0
+	+	14	22
+	+	1	28
+	+	19	18
+	+	19	46
+	+	81	0
+	+	81	0
+	+	19	0
+	+	20	26
+	+	19	0
+	+	19	60
+	+	20	0
+	+	21	17
+	+	23	39
+	+	81	0
+	+	58	10
+	+	26	0
+	+	25	18
+	+	81	0
+	+	25	0
+	+	60	0
+	+	61	23
+	+	79	31
+	+	17	0
+	+	14	22
+	+	12	25
+	+	15	0
+	+	18	6
+	+	21	0
+	+	18	16
+	+	22	1
+	+	23	1
+	+	22	1
+	+	19	1
+	+	20	1
+	+	12	25
+	+	18	0
+	+	19	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	18	1
+	+	20	0
+	+	1	0
+
+> ~/cielo/cielo/setup.cfg
+	"	5	11
+	.	5	0
+	+	5	0
+
+> ~/cielo/cielo/dms_cielo/tests/heh
+	"	1	0
+	^	1	45
+	.	1	0
+	+	1	1432
+	+	1	0
+	+	1	1432
+	+	1	0
+	+	1	1432
+	+	1	0
+	+	1	1432
+	+	1	0
+	+	1	1432
+	+	1	44
+	+	1	129
+	+	1	0
+
+> ~/cielo/cielo/testing.yaml
+	"	1	0
+	^	1	0
+	.	2	0
+	+	1	0
+	+	2	0
+
+> ~/cielo/cielo/config.ini
+	"	4	0
+	.	2	0
+	+	2	0
+
+> ~/cielo/cielo/config.sample.ini
+	"	1	0
+
+> ~/cielo/cielo/testing.sample.yaml
+	"	1	0
+
+> ~/cielo/cielo/.venv
+	"	1	7
+	^	1	8
+	.	1	7
+	+	1	7
+
+> ~/.vim/ftplugin/python/flake8.vim
+	"	1	0
+
+> ~/.vim/ftplugin/python/flake8.
+	"	1	0
+
+> ~/.vim/[Vundle] Installer
+	"	5	0
+	.	1	0
+	+	25	0
+	+	21	0
+	+	17	0
+	+	13	0
+	+	9	0
+	+	5	0
+	+	1	0
+
+> ~/.vim/.vimrc
+	"	1	0
+
+> ~/.vim/autoload/flake8.vim
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
+
+> ~/.vim/bundle/vim-flake8/README.mdown
+	"	1	0
+
+> ~/.vim/bundle/.vimrc
+	"	1	0
+
+> ~/daftpay/tests/tmp
+	"	64	0
+	.	2	0
+	+	2	0
+
+> ~/daftpay/tests/tmp.py
+	"	1	0
+	.	2	0
+	+	2	0
+
+> ~/daftpay/db/src/daftpay/db/__init__.py
+	"	25	3
+	^	44	4
+	.	19	0
+	+	40	0
+	+	39	0
+	+	48	0
+	+	5	0
+	+	6	0
+	+	19	0
+
+> ~/daftpay/core/src/daftpay/core/subscription_manager.py
+	"	438	20
+	.	422	0
+	+	422	0
+
+> ~/daftpay/db/src/daftpay/db/master_mappings.py
+	"	87	29
+	^	87	30
+	.	87	29
+	+	79	0
+	+	81	0
+	+	19	0
+	+	17	54
+	+	80	0
+	+	83	9
+	+	81	16
+	+	86	0
+	+	17	1
+	+	18	6
+	+	17	0
+	+	15	15
+	+	16	17
+	+	18	0
+	+	84	15
+	+	82	14
+	+	81	5
+	+	87	29
+
+> ~/daftpay/tests/dupa
+	"	2	0
+	.	2	0
+	+	5	0
+	+	2	0
+
+> ~/adsfds
+	"	1	0
+	^	1	112
+	.	1	111
+	+	1	111
+
+> apisrd/apisu
+	"	1	0
+
+> ~/.gitfiles/global-ignore
+	"	2	7
+	^	2	8
+	.	2	7
+	+	1	4
+	+	3	0
+	+	2	7
+
+> ~/daftpay/tests/.noseids
+	"	1	0
+
+> ~/daftpay/tests/src/daftpay/tests/__init__.py
+	"	4	0
+	.	4	0
+	+	4	0
+
+> ~/daftpay/db/src/daftpay/db/service_mappings.py
+	"	60	4
+	^	59	0
+	.	72	0
+	+	1	0
+	+	72	0
+	+	72	21
+	+	72	20
+	+	72	19
+	+	72	9
+	+	72	4
+	+	72	51
+	+	72	51
+	+	72	51
+	+	72	1
+	+	71	0
+	+	72	32
+	+	72	1
+	+	72	0
+
+> ~/daftpay/tests/src/daftpay/tests/api/subscribe/tmptest.py
+	"	55	0
+	^	63	12
+	.	54	0
+	+	1	0
+	+	2	0
+	+	38	0
+	+	40	0
+	+	40	0
+	+	42	43
+	+	41	4
+	+	43	0
+	+	41	11
+	+	63	11
+	+	6	0
+	+	40	0
+	+	54	0
+
+> ~/daftpay/tests/src/daftpay/tests/fixt.py
+	"	52	14
+	.	78	0
+	+	114	0
+	+	114	16
+	+	114	19
+	+	114	19
+	+	114	40
+	+	114	14
+	+	114	17
+	+	114	19
+	+	114	0
+	+	114	21
+	+	114	53
+	+	122	36
+	+	124	0
+	+	124	0
+	+	122	36
+	+	124	22
+	+	124	3
+	+	127	18
+	+	114	0
+	+	114	28
+	+	114	28
+	+	114	4
+	+	114	4
+	+	114	0
+	+	114	0
+	+	127	20
+	+	114	1
+	+	114	1
+	+	114	0
+	+	124	5
+	+	124	5
+	+	114	0
+	+	113	0
+	+	113	0
+	+	113	0
+	+	124	0
+	+	127	18
+	+	113	65
+	+	113	0
+	+	123	0
+	+	123	0
+	+	124	0
+	+	77	0
+	+	77	0
+	+	78	8
+	+	78	31
+	+	78	8
+	+	78	0
+	+	78	34
+	+	78	23
+	+	78	28
+	+	78	20
+	+	78	0
+
+> ~/daftpay/common/src/daftpay/common/utils.py
+	"	40	4
+
+> ~/daftpay/core/src/daftpay/core/__init__.py
+	"	156	16
+
+> ~/daftpay/common/src/daftpay/common/geoip.py
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> ~/daftpay/tests/testing.sample.yaml
+	"	1	0
+
+> ~/daftpay/tests/testing.yaml
+	"	32	8
+	^	33	0
+	.	33	0
+	+	1	7
+	+	33	177
+	+	33	0
+	+	3	0
+	+	5	0
+	+	8	0
+	+	11	0
+	+	17	0
+	+	25	0
+	+	1	1
+	+	33	0
+
+> ~/daftpay/api/src/daftpay/api/refunds.py
+	"	1	0
+	^	1	1
+	.	85	0
+	+	63	0
+	+	85	0
+
+> ~/.gitconfig
+	"	8	16
+	^	8	17
+	.	8	16
+	+	5	37
+	+	8	16
+
+> ~/daftpay/api/src/daftpay/api/__init__.py
+	"	275	20
+	^	331	14
+	.	358	0
+	+	331	0
+	+	337	0
+	+	332	44
+	+	333	43
+	+	290	0
+	+	302	0
+	+	306	0
+	+	307	0
+	+	344	0
+	+	358	0
+
+> ~/daftpay/tests/src/daftpay/tests/utils.py
+	"	54	8
+
+> ~/daftpay/tests/.venv
+	"	1	0
+	^	1	10
+	.	1	9
+	+	1	9
+
+> ~/daftpay/tests/src/daftpay/tests/api/test_get_subscription.py
+	"	34	4
+	^	40	26
+	.	40	25
+	+	17	4
+	+	17	0
+	+	17	30
+	+	17	29
+	+	22	5
+	+	17	42
+	+	23	0
+	+	29	21
+	+	31	27
+	+	32	31
+	+	39	30
+	+	31	0
+	+	31	24
+	+	41	67
+	+	31	35
+	+	39	40
+	+	39	0
+	+	39	45
+	+	41	67
+	+	41	30
+	+	41	112
+	+	32	58
+	+	39	39
+	+	39	43
+	+	41	56
+	+	41	139
+	+	28	28
+	+	22	0
+	+	22	0
+	+	22	0
+	+	21	8
+	+	20	8
+	+	20	0
+	+	22	0
+	+	21	60
+	+	21	68
+	+	20	30
+	+	21	60
+	+	20	0
+	+	39	0
+	+	21	9
+	+	41	72
+	+	28	28
+	+	31	0
+	+	28	28
+	+	31	29
+	+	41	71
+	+	31	0
+	+	38	0
+	+	32	9
+	+	32	0
+	+	37	0
+	+	33	42
+	+	34	0
+	+	37	0
+	+	35	0
+	+	37	0
+	+	36	39
+	+	38	0
+	+	41	67
+	+	38	0
+	+	41	67
+	+	41	68
+	+	31	48
+	+	28	29
+	+	31	46
+	+	41	66
+	+	38	80
+	+	21	8
+	+	28	23
+	+	28	0
+	+	33	31
+	+	32	0
+	+	33	0
+	+	31	26
+	+	31	31
+	+	38	60
+	+	32	0
+	+	42	0
+	+	39	0
+	+	38	0
+	+	38	34
+	+	38	69
+	+	38	0
+	+	38	0
+	+	22	42
+	+	41	0
+	+	42	32
+	+	41	0
+	+	42	0
+	+	41	61
+	+	22	0
+	+	41	5
+	+	31	81
+	+	41	62
+	+	31	40
+	+	30	24
+	+	40	10
+	+	30	22
+	+	40	25
+
+> ~/daftpay/panel/.gitignore
+	"	3	0
+
+> ~/daftpay/tests/src/daftpay/tests/api/test_get_capture.py
+	"	3	0
+	^	6	20
+	.	3	0
+	+	6	19
+	+	54	0
+	+	13	0
+	+	3	0
+	+	3	0
+	+	8	0
+	+	3	0
+	+	3	0
+
+> ~/daftpay/tests/src/daftpay/tests/api/test_get_refund.py
+	"	1	0
+	.	8	0
+	+	17	0
+	+	54	0
+	+	3	0
+	+	8	0
+
+> ~/daftpay/lsl
+	"	1	0
+
+> ~/.bashrc.d/git.sh
+	"	7	0
+	^	8	10
+	.	8	9
+	+	6	27
+	+	7	0
+	+	7	21
+	+	8	9
+
+> ~/git.sh
+	"	1	0
+
+> ~/daftpay/api/src/daftpay/api/captures.py
+	"	19	0
+	.	23	0
+	+	45	0
+	+	23	0
+
+> ~/.bashprompt
+	"	122	0
+
+> ~/.bashrc
+	"	3	0
+	^	7	13
+	.	7	13
+	+	2	0
+	+	1	10
+	+	9	0
+	+	9	0
+	+	3	0
+	+	8	0
+	+	7	4
+	+	4	0
+	+	6	15
+	+	7	13
+
+> ~/daftpay/api/src/daftpay/api/handlers.py
+	"	386	20
+
+> ~/daftpay/api/src/daftpay/api/dupa
+	"	1	0
+
+> ~/daftpay/tests/src/daftpay/tests/api/test_refund.py
+	"	75	0
+
+> ~/daftpay/tests/src/daftpay/tests/api/subscribe/test_get_subscriptions.py
+	"	1	0
+	.	9	0
+	+	10	0
+	+	8	2
+	+	9	4
+	+	1	0
+	+	8	29
+	+	8	0
+	+	9	0
+	+	9	0
+	+	10	0
+	+	28	0
+	+	10	1
+	+	11	6
+	+	12	8
+	+	13	14
+	+	8	0
+	+	9	0
+	+	13	0
+	+	16	0
+	+	19	0
+	+	22	0
+	+	8	0
+	+	9	0
+	+	7	0
+	+	5	0
+	+	1	11
+	+	3	53
+	+	9	39
+	+	12	5
+	+	12	0
+	+	7	0
+	+	6	0
+	+	9	37
+	+	10	0
+	+	9	0
+
+> ~/daftpay/api/src/daftpay/api/exc_handlers.py
+	"	1	0
+
+> ~/daftpay/api/src/daftpay/api/events.py
+	"	2	0
+	.	1	0
+	+	1	0
+
+> ~/daftpay/api/src/daftpay/api/context.py
+	"	9	11
+
+> ~/daftpay/tests/src/daftpay/tests/common/test_subscription_model.py
+	"	7	19
+	^	22	80
+	.	22	79
+	+	5	42
+	+	23	0
+	+	12	37
+	+	12	76
+	+	12	38
+	+	12	87
+	+	12	0
+	+	12	76
+	+	3	26
+	+	3	26
+	+	12	76
+	+	12	64
+	+	12	71
+	+	12	52
+	+	12	52
+	+	12	50
+	+	12	64
+	+	12	76
+	+	12	62
+	+	12	52
+	+	12	75
+	+	1	0
+	+	3	0
+	+	1	10
+	+	23	0
+	+	12	73
+	+	6	0
+	+	11	0
+	+	7	20
+	+	7	20
+	+	12	41
+	+	8	0
+	+	8	0
+	+	9	0
+	+	12	41
+	+	12	37
+	+	23	0
+	+	12	27
+	+	23	23
+	+	12	9
+	+	8	12
+	+	9	29
+	+	12	24
+	+	23	0
+	+	12	17
+	+	23	0
+	+	12	26
+	+	23	27
+	+	23	28
+	+	23	0
+	+	13	0
+	+	13	13
+	+	13	0
+	+	13	15
+	+	13	42
+	+	13	0
+	+	13	46
+	+	13	0
+	+	23	0
+	+	13	17
+	+	13	12
+	+	13	49
+	+	12	25
+	+	15	0
+	+	14	0
+	+	16	76
+	+	23	0
+	+	15	46
+	+	13	68
+	+	17	0
+	+	18	45
+	+	19	50
+	+	10	0
+	+	13	0
+	+	16	0
+	+	19	73
+	+	20	0
+	+	21	48
+	+	22	79
+
+> ~/daftpay/tests/src/daftpay/tests/api/test_find_subscription.py
+	"	146	0
+
+> ~/daftpay/api/.gitignore
+	"	6	0
+	.	7	0
+	+	7	0
+
+> ~/daftpay/tests/.gitignore
+	"	4	0
+
+> ~/.vim/autoload/pathogen.vim
+	"	1	0
+
+> /usr/share/vim/vim74/doc/help.txt
+	"	1	0
+
+> ~/.vim/bundle/vim-sensible/README.markdown
+	"	1	0
+
+> ~/.vim/ftplugin/python/pep8.vim
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/daftpay/common/src/daftpay/common/exceptions.py
+	"	235	0
+
+> ~/daftpay/common/src/daftpay/common/dms_client.py
+	"	65	0
+
+> ~/daftpay/common/src/daftpay/common/default_tz.py
+	"	1	0
+
+> ~/daftpay/common/src/daftpay/common/compat.py
+	"	2	0
+
+> ~/daftpay/panel/testing.yaml
+	"	2	60
+	^	2	61
+	.	2	13
+	+	6	0
+	+	15	0
+	+	28	0
+	+	29	0
+	+	28	33
+	+	29	0
+	+	28	49
+	+	2	13
+
+> ~/daftpay/panel/testing.ini
+	"	1	0
+	^	11	17
+	.	11	17
+	+	22	55
+	+	26	46
+	+	11	17
+
+> ~/daftpay/tests/setup.py
+	"	1	0
+
+> ~/daftpay/tests/setup.cfg
+	"	1	0
+
+> /etc/postgresql/9.4/main/pg_hba.conf
+	"	85	68
+	^	85	78
+	.	85	68
+	+	85	68
