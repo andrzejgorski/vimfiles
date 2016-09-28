@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/andrzej/MIMUW/Semestr4/IO/ioioio/source_code'
+let g:netrw_dirhist_2='/home/andrzej/.ssh'
+let g:netrw_dirhist_3='/home/andrzej/MIMUW/Semestr5/new_jnp/jnp-iii/source_code'
+let g:netrw_dirhist_4='/home/andrzej/hacking/madeincosmos.net/2014/06/nie-przespac-zycia'
+let g:netrw_dirhist_5='/home/andrzej/hacking/websites/www.crypto.edu.pl/tmp'
+let g:netrw_dirhist_6='/etc'
+let g:netrw_dirhist_7='/srv'

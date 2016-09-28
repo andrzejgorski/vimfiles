@@ -1,0 +1,8 @@
+[user]
+	name = Andrzej Górski\n
+	email = andrzejgorski@supermond.com
+[color]
+	ui = auto
+[core]
+	excludesfile = ~/.gitignore
+	editor = vim
